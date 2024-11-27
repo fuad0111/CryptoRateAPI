@@ -1,0 +1,132 @@
+2024-11-27 13:01:49.3742 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:01:49.3742 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:01:49.4150 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:01:49.4242 Info Configuration initialized.
+2024-11-27 13:06:14.0185 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:06:14.0302 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:06:14.0555 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:06:14.0671 Info Configuration initialized.
+2024-11-27 13:19:11.7804 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:19:11.7968 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:19:11.8164 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:19:11.8270 Info Configuration initialized.
+2024-11-27 13:24:55.3106 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:24:55.3106 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:24:55.3489 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:24:55.3600 Info Configuration initialized.
+2024-11-27 13:26:47.4039 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:26:47.4239 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:26:47.4443 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:26:47.4535 Info Configuration initialized.
+2024-11-27 13:27:33.3434 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:27:33.3637 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:27:33.3861 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:27:33.3982 Info Configuration initialized.
+2024-11-27 13:31:31.4207 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:31:31.4207 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:31:31.4566 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:31:31.4566 Info Configuration initialized.
+2024-11-27 13:34:56.2019 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:34:56.2210 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:34:56.2396 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:34:56.2501 Info Configuration initialized.
+2024-11-27 13:46:05.3896 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:46:05.3896 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:46:05.4270 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:46:05.4362 Info Configuration initialized.
+2024-11-27 13:46:49.3906 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:46:49.4102 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:46:49.4353 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:46:49.4445 Info Configuration initialized.
+2024-11-27 13:54:10.0149 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:54:10.0322 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:54:10.0530 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:54:10.0642 Info Configuration initialized.
+2024-11-27 13:56:05.1390 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:56:05.1598 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:56:05.1838 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:56:05.1952 Info Configuration initialized.
+2024-11-27 13:58:00.8119 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:58:00.8310 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:58:00.8559 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:58:00.8664 Info Configuration initialized.
+2024-11-27 13:58:50.8601 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:58:50.8807 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:58:50.9020 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:58:50.9117 Info Configuration initialized.
+2024-11-27 13:59:30.6079 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 13:59:30.6079 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 13:59:30.6431 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 13:59:30.6431 Info Configuration initialized.
+2024-11-27 14:02:33.4254 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 14:02:33.4467 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 14:02:33.4679 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 14:02:33.4679 Info Configuration initialized.
+2024-11-27 14:04:00.3615 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 14:04:00.3801 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 14:04:00.4011 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 14:04:00.4101 Info Configuration initialized.
+2024-11-27 14:11:26.8106 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 14:11:26.8286 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 14:11:26.8504 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 14:11:26.8598 Info Configuration initialized.
+2024-11-27 14:23:07.4688 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 14:23:07.4688 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 14:23:07.5030 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 14:23:07.5148 Info Configuration initialized.
+2024-11-27 14:48:47.3109 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 14:48:47.3318 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 14:48:47.3560 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 14:48:47.3664 Info Configuration initialized.
+2024-11-27 15:02:37.7483 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 15:02:37.7483 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 15:02:37.7853 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 15:02:37.7853 Info Configuration initialized.
+2024-11-27 15:04:36.8895 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 15:04:36.8895 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 15:04:36.9226 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 15:04:36.9226 Info Configuration initialized.
+2024-11-27 15:12:35.0973 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 15:12:35.1219 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 15:12:35.1557 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 15:12:35.1775 Info Configuration initialized.
+2024-11-27 15:26:22.6380 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 15:26:22.6570 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 15:26:22.7063 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 15:26:22.7293 Info Configuration initialized.
+2024-11-27 15:37:58.5987 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 15:37:58.5987 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 15:37:58.6336 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 15:37:58.6336 Info Configuration initialized.
+2024-11-27 15:39:07.5538 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 15:39:07.5681 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 15:39:07.5922 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 15:39:07.6019 Info Configuration initialized.
+2024-11-27 15:40:01.7707 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 15:40:01.7880 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 15:40:01.8192 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 15:40:01.8351 Info Configuration initialized.
+2024-11-27 15:58:41.4456 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 15:58:41.4650 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 15:58:41.4880 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 15:58:41.4976 Info Configuration initialized.
+2024-11-27 16:04:10.3039 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 16:04:10.3039 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 16:04:10.3398 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 16:04:10.3505 Info Configuration initialized.
+2024-11-27 16:05:13.9438 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 16:05:13.9611 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 16:05:13.9809 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 16:05:13.9926 Info Configuration initialized.
+2024-11-27 16:06:02.7235 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 16:06:02.7445 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 16:06:02.7716 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 16:06:02.7716 Info Configuration initialized.
+2024-11-27 16:08:21.2083 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 16:08:21.2083 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 16:08:21.2414 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 16:08:21.2414 Info Configuration initialized.
+2024-11-27 16:10:44.9280 Info Registered target NLog.Targets.FileTarget(Name=f)
+2024-11-27 16:10:44.9479 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-27 16:10:44.9706 Info Validating config: TargetNames=f, ConfigItems=36, FilePath=C:\Programing\R&D\CryptoRateAPI\CryptoRateAPI\bin\Debug\net8.0\nlog.config
+2024-11-27 16:10:44.9812 Info Configuration initialized.

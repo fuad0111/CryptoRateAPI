@@ -5,12 +5,14 @@ Pagination and Filtering: Add support for paginated results and query filters fo
 Rate Limiting: Implement rate limiting to prevent abuse of the application and ensure API quotas are not exceeded.
 Advanced Error Handling: Implement a more sophisticated error-handling mechanism with detailed error codes and traceability.
 Unit test: I would have write unit test and use packages like Moq and fluent assertion
+even i think i can use minimal apis for this project
 ------------------------------------------------------------------------------------------------------------------------
 2. What was the most useful feature that was added to the latest version of your
 language of choice?
-
-
-
+1.Minimal APIs Enhancements
+Making APIs Even More Lightweight
+2.Rate Limiting Middleware
+Preventing API Overload with Ease
 ----------------------------------------------------------------------------------------------------------------------
 3. How would you track down a performance issue in production? Have you ever
 had to do this?

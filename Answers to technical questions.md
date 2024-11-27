@@ -23,12 +23,12 @@ Code Review: Look for inefficient algorithms or unoptimized code.
 4. What was the latest technical book you have read or tech conference you have been to? What did you learn?
 unit testing principles practices and patterns
 Im learn these subject of this book: 
-1. Why Unit Testing is Important
-2. Characteristics of Good Unit Tests
-3.Code Coverage And Branch Coverage
-4. Writing Maintainable Tests
-5. Is Unit Testing always good and Is high coverage of code is good or not 
-6.Branch Coverage and code Coverage
+Why Unit Testing is Important
+Characteristics of Good Unit Tests
+Code Coverage And Branch Coverage
+Writing Maintainable Tests
+Is Unit Testing always good and Is high coverage of code is good or not 
+Branch Coverage and code Coverage
 I am still reading this book, but I haven't read it in a while due to interview sessions
 ----------------------------------------------------------------------------------------------------------------------
 5. What do you think about this technical assessment?
